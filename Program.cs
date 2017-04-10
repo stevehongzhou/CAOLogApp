@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Sql;
 
+//This is the application for CAO Log to identify ICD code delay
 namespace CAOLogMonitor
 {
     class Program

@@ -17,3 +17,6 @@ H:\Users\szhou\Documents\GitHub\LogMonitor\bin\Debug\CAOLogMonitor.pdb
 H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.csprojResolveAssemblyReference.cache
 H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.exe.manifest
 H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.application
+H:\Users\szhou\Documents\GitHub\CAOLogApp\bin\Debug\CAOLogMonitor.exe.config
+H:\Users\szhou\Documents\GitHub\CAOLogApp\obj\Debug\CAOLogMonitor.exe
+H:\Users\szhou\Documents\GitHub\CAOLogApp\obj\Debug\CAOLogMonitor.pdb
