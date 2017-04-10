@@ -1,1 +1,2 @@
 # LogMonitor
+second line added
